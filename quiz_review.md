@@ -1,6 +1,8 @@
 # SQL Quiz
 
-~ 26 Questions (+- 2)
+* ~ 26 Questions (+- 2)
+* 90 minutes
+* Open note, open database connection
 
 Questions On:
 
